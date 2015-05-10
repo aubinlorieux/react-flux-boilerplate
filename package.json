@@ -1,0 +1,24 @@
+{
+  "name": "react-flux",
+  "version": "0.0.1",
+  "description": "A boilerplate to start a react application with the flux architecture",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aubinlorieux/react-flux-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "flux",
+    "boilerplate"
+  ],
+  "author": "Aubin LORIEUX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aubinlorieux/react-flux-boilerplate/issues"
+  },
+  "homepage": "https://github.com/aubinlorieux/react-flux-boilerplate"
+}
